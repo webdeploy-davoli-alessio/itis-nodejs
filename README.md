@@ -4,7 +4,7 @@ V8 è l'interprete javascript che viene utilizzato anche dentro Chromium.
 Chrome, Brave, Opera e la nuova versione di Microsoft Edge sono basate su Chromium.
 
 Javascript:
-- Può gestire solo 1 thread, Chrome, Brave, Opera e la nuova versione di Microsoft Edge. (single-threaded).
+- Può gestire solo 1 thread (single-threaded).
 - Ha ereditarietà prototipale (Prototypal Inheritance)
    [Riferimento](https://javascript.info/prototype-inheritance).
    [Riferimento](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
