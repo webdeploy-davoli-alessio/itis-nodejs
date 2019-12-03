@@ -1,4 +1,4 @@
-# Corso ITIS
+# Corso NodeJS ITIS
 NodeJS è una runtime javascript che si basa su V8.
 V8 è l'interprete javascript che viene utilizzato anche dentro Chromium.
 Chrome, Brave, Opera e la nuova versione di Microsoft Edge sono basate su Chromium.
