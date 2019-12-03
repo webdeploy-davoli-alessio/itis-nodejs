@@ -18,7 +18,6 @@ typeof NaN // risulta number
 0 == "0" // risulta true
 0 == "" // risulta true
 [] == [] // risulta false
-1 == true // risulta true
 ```
 
 ## Moduli
