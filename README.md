@@ -11,7 +11,8 @@ Javascript:
 - Tratta le funzioni come cittadini di prima classe (Functional Programming).
 - E' dinamcally typed (Il tipo delle variabili è definito a runtime).
 
-Assurdità fondamentali:
+## Assurdità fondamentali
+
 ```javascript
 typeof NaN // risulta number
 0 == "0" // risulta true
